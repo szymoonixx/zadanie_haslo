@@ -20,7 +20,7 @@ class MainActivity : AppCompatActivity() {
         guzik.setOnClickListener {
             if (haslo1.text.toString()==haslo2.text.toString())
             {
-                zgodne.
+
             }
         }
 
